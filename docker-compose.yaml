@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  yst_web:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    container_name: yst_web
+    image: yst_web
+    # restart: always
+    ports:
+      - "8856:3000"
