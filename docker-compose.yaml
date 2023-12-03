@@ -8,4 +8,4 @@ services:
     image: yst_web
     # restart: always
     ports:
-      - "8856:3000"
+      - "8800:3000"
