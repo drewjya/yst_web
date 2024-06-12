@@ -13,7 +13,7 @@ const listFitur = [
     <div
       class="kotak-gambar w-[300px] h-[600px] border-[5px] border-black/70 scale-[.9] rounded-2xl overflow-hidden"
     >
-      <img src="/apk-img.jpg" alt="" class="w-full h-full" />
+      <img src="/app.jpeg" alt="" class="w-full h-full" />
     </div>
 
     <!-- text & btn -->
