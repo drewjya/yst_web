@@ -47,6 +47,12 @@ onMounted(() => {
           Cabang
         </li>
       </a>
+      <a href="#privacy">
+        <li
+          class="cursor-pointer text-[#F1E7CE] px-8 py-2 text-[15px] font-normal rounded-md flex items-center justify-center hover:bg-[#F1E7CE] hover:text-[#593630]">
+          Privacy
+        </li>
+      </a>
     </ul>
   </nav>
 </template> 

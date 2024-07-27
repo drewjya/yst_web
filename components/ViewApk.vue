@@ -48,24 +48,28 @@ const listFitur = [
 
       <!-- btn -->
       <div class="w-full h-max flex gap-5 mt-10">
-        <a href="#">
+        <a
+          href="https://apps.apple.com/us/app/yst-family/id6498894913"
+          target="_blank"
+        >
           <div
-            class="w-[150px] h-[45px] bg-black rounded-lg flex items-center justify-center gap-3"
+            class="w-[150px] h-[45px] bg-black text-white rounded-lg flex items-center justify-center gap-3"
           >
             <img src="/appstore.png" alt="" width="20" />
             <div class="leading-none">
-              <p class="text-[10px] font-light pb-[2px]">COMING SOON</p>
               <h1>App Store</h1>
             </div>
           </div>
         </a>
-        <a href="#">
+        <a
+          href="https://play.google.com/store/apps/details?id=com.kodewizzard.ystfamily"
+          target="_blank"
+        >
           <div
-            class="w-[150px] h-[45px] bg-black rounded-lg flex items-center justify-center gap-3"
+            class="w-[150px] h-[45px] bg-black text-white rounded-lg flex items-center justify-center gap-3"
           >
             <img src="/playstore.png" alt="" width="20" />
             <div class="leading-none">
-              <p class="text-[10px] font-light pb-[2px]">COMING SOON</p>
               <h1>Google Play</h1>
             </div>
           </div>

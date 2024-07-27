@@ -78,6 +78,7 @@ onMounted(() => {
     <Services :banner="banner" :category="category" />
     <Cabang :cabang="cabang"/>
     <ViewApk />
+    <PrivacyPolicy />
     <Footer />
   </div>
 </template>
