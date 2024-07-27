@@ -7,9 +7,9 @@
       <p class="mb-4">
         Welcome to YST Family! This privacy policy explains how we collect, use,
         disclose, and safeguard your information when you use our mobile
-        application (the "App"). Please read this privacy policy carefully. If
-        you do not agree with the terms of this privacy policy, please do not
-        access the App.
+        application (the "YST Family"). Please read this privacy policy
+        carefully. If you do not agree with the terms of this privacy policy,
+        please do not access the App.
       </p>
 
       <h2 class="text-2xl font-semibold mb-3">Information We Collect</h2>
